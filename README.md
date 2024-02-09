@@ -5,7 +5,7 @@ Hi. I'm a starter theme called `io` and I'm about as basic as it comes. Created 
 
 Hope this helps someone out there. 
 
-If you'd like to support Outright, go check out what they have to offer at <a href="https://outrightsites.com/pricing-outright">https://outrightsites.com/pricing-outright</a>.
+If you'd like to support Outright, go check out what they have to offer at <a href="https://outrightsites.com">https://outrightsites.com</a>.
 
 Or here :)
-<a href="https://outrightsites.com/shop">https://outrightsites.com/shop</a>
+<a href="https://www.patreon.com/user?u=106428072">https://www.patreon.com/user?u=106428072</a>
