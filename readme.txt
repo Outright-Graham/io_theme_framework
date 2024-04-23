@@ -1,6 +1,6 @@
-=== io ===
+=== Altimeter ===
 
-Contributors: automattic
+Contributors: Graham Tucker
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called io.
+A starter theme called Altimeter.
 
 == Description ==
 
@@ -25,14 +25,14 @@ Bare site with WPautop disabled. WooCommerce boilerplate added.
 
 = Does this theme support any plugins? =
 
-io includes support for Infinite Scroll in Jetpack.
+Altimeter includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
-* Initial release
+= 1.7 - April 23, 2024 =
+* Update to readme.txt
 
 == Credits ==
-
+* Graham - hire him, he's pretty good with this sort of stuff. More at outrightsites.com
 * Based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
