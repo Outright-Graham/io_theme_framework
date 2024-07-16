@@ -1,5 +1,5 @@
 Update: 20240716
-The below is outdated and abandoned. You may still use it, but there will be no updates. It is deprecated in favor for Altimeter: < href="https://outrgiht.software/altimeter">https://outrgiht.software/altimeter</a>.
+The below is outdated and abandoned. You may still use it, but there will be no updates. It is deprecated in favor for Altimeter: <a href="https://outrgiht.software/altimeter">https://outrgiht.software/altimeter</a>.
 
 
 i/o theme
